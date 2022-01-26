@@ -48,7 +48,14 @@
 			<artifactId>springfox-swagger2</artifactId>
 			<version>3.0.0</version>
 		</dependency>
+
+		<!--If you need to add some management services. Spring Boot provides several such services (such as health, audits, beans, and more) with its-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
 	</dependencies>
+
 
 	<build>
 		<plugins>
