@@ -26,6 +26,7 @@ mvn clean install
 
 ## Definiciones
 ### Spring-Boot: 
+pring Boot es una infraestructura ligera que elimina la mayor parte del trabajo de configurar las aplicaciones basadas en Spring.
 
 ## Creando una Aplicación Web Simple
 
@@ -68,7 +69,7 @@ Además del controlador se creó una clase que representa un saludo con sus resp
 
 <img style="height: 450px" src="https://github.com/Rincon10/IETI-TALLER01/blob/master/src/main/resources/static/img/img05.jpg" alt="img-greetings"> <br />
 
-<img style="height: 450px" src="https://github.com/Rincon10/IETI-TALLER06/blob/master/src/main/resources/static/img/img05.jpg" alt="img-greetings">
+<img style="height: 450px" src="https://github.com/Rincon10/IETI-TALLER01/blob/master/src/main/resources/static/img/img06.jpg" alt="img-greetings-2">
 
 ## Autor
 [Camilo Rincón](https://github.com/Rincon10)
